@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/slike">
+        <file>e.gif</file>
+        <file>pinball2.png</file>
+        <file>plata.png</file>
+    </qresource>
+</RCC>
